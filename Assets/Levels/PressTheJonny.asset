@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad296a8617eb44b4689d3f974a989e63, type: 3}
+  m_Name: PressTheJonny
+  m_EditorClassIdentifier: Assembly-CSharp::LevelSO
+  levelPrefab: {fileID: 1745730446994471082, guid: fc09e6f2c740f0d46bfd51786c5ac3c8, type: 3}
+  topCaption: press on
+  boldText: jonny
+  hint: near chris
